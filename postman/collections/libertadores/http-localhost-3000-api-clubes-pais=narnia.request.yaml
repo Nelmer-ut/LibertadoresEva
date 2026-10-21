@@ -1,0 +1,8 @@
+$kind: http-request
+name: http://localhost:3000/api/clubes?pais=narnia
+description: ""
+url: http://localhost:3000/api/clubes?pais=narnia
+method: GET
+queryParams:
+  pais: narnia
+order: 5000

@@ -1,0 +1,8 @@
+$kind: http-request
+name: http://localhost:3000/api/clubes/9
+description: ""
+url: http://localhost:3000/api/clubes?pais=Chile
+method: GET
+queryParams:
+  pais: Chile
+order: 2000
